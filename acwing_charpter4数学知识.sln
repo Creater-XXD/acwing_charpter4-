@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "试除法判定质数", "试除法判定质数\试除法判定质数.vcxproj", "{1574550B-3E27-4673-A32E-A69EA1528E16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1574550B-3E27-4673-A32E-A69EA1528E16}.Debug|x64.ActiveCfg = Debug|x64
+		{1574550B-3E27-4673-A32E-A69EA1528E16}.Debug|x64.Build.0 = Debug|x64
+		{1574550B-3E27-4673-A32E-A69EA1528E16}.Debug|x86.ActiveCfg = Debug|Win32
+		{1574550B-3E27-4673-A32E-A69EA1528E16}.Debug|x86.Build.0 = Debug|Win32
+		{1574550B-3E27-4673-A32E-A69EA1528E16}.Release|x64.ActiveCfg = Release|x64
+		{1574550B-3E27-4673-A32E-A69EA1528E16}.Release|x64.Build.0 = Release|x64
+		{1574550B-3E27-4673-A32E-A69EA1528E16}.Release|x86.ActiveCfg = Release|Win32
+		{1574550B-3E27-4673-A32E-A69EA1528E16}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAC4C6E2-1E5E-484D-98B7-B0ECDBEEBEE3}
+	EndGlobalSection
+EndGlobal
