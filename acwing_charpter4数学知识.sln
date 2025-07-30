@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36301.6 d17.14
+VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "试除法判定质数", "试除法判定质数\试除法判定质数.vcxproj", "{1574550B-3E27-4673-A32E-A69EA1528E16}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "分解质因数", "分解质因数\分解质因数.vcxproj", "{B416A86E-80E2-46D8-A0F9-6539AA700DD3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "筛质数", "筛质数\筛质数.vcxproj", "{88A4AAE5-F1AF-490C-B8F3-36D103EC4C8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{B416A86E-80E2-46D8-A0F9-6539AA700DD3}.Release|x64.Build.0 = Release|x64
 		{B416A86E-80E2-46D8-A0F9-6539AA700DD3}.Release|x86.ActiveCfg = Release|Win32
 		{B416A86E-80E2-46D8-A0F9-6539AA700DD3}.Release|x86.Build.0 = Release|Win32
+		{88A4AAE5-F1AF-490C-B8F3-36D103EC4C8E}.Debug|x64.ActiveCfg = Debug|x64
+		{88A4AAE5-F1AF-490C-B8F3-36D103EC4C8E}.Debug|x64.Build.0 = Debug|x64
+		{88A4AAE5-F1AF-490C-B8F3-36D103EC4C8E}.Debug|x86.ActiveCfg = Debug|Win32
+		{88A4AAE5-F1AF-490C-B8F3-36D103EC4C8E}.Debug|x86.Build.0 = Debug|Win32
+		{88A4AAE5-F1AF-490C-B8F3-36D103EC4C8E}.Release|x64.ActiveCfg = Release|x64
+		{88A4AAE5-F1AF-490C-B8F3-36D103EC4C8E}.Release|x64.Build.0 = Release|x64
+		{88A4AAE5-F1AF-490C-B8F3-36D103EC4C8E}.Release|x86.ActiveCfg = Release|Win32
+		{88A4AAE5-F1AF-490C-B8F3-36D103EC4C8E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
