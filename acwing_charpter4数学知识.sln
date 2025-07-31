@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "分解质因数", "分解�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "筛质数", "筛质数\筛质数.vcxproj", "{88A4AAE5-F1AF-490C-B8F3-36D103EC4C8E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "试除法找约数", "试除法找约数\试除法找约数.vcxproj", "{863E3386-EDF5-4B30-B8CF-49663F7A79A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{88A4AAE5-F1AF-490C-B8F3-36D103EC4C8E}.Release|x64.Build.0 = Release|x64
 		{88A4AAE5-F1AF-490C-B8F3-36D103EC4C8E}.Release|x86.ActiveCfg = Release|Win32
 		{88A4AAE5-F1AF-490C-B8F3-36D103EC4C8E}.Release|x86.Build.0 = Release|Win32
+		{863E3386-EDF5-4B30-B8CF-49663F7A79A1}.Debug|x64.ActiveCfg = Debug|x64
+		{863E3386-EDF5-4B30-B8CF-49663F7A79A1}.Debug|x64.Build.0 = Debug|x64
+		{863E3386-EDF5-4B30-B8CF-49663F7A79A1}.Debug|x86.ActiveCfg = Debug|Win32
+		{863E3386-EDF5-4B30-B8CF-49663F7A79A1}.Debug|x86.Build.0 = Debug|Win32
+		{863E3386-EDF5-4B30-B8CF-49663F7A79A1}.Release|x64.ActiveCfg = Release|x64
+		{863E3386-EDF5-4B30-B8CF-49663F7A79A1}.Release|x64.Build.0 = Release|x64
+		{863E3386-EDF5-4B30-B8CF-49663F7A79A1}.Release|x86.ActiveCfg = Release|Win32
+		{863E3386-EDF5-4B30-B8CF-49663F7A79A1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
