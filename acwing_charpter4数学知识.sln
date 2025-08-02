@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "试除法找约数", "试�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "约数个数", "约数个数\约数个数.vcxproj", "{FC137284-3AD6-4A9D-B695-B21098A53DC7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "约数之和", "约数之和\约数之和.vcxproj", "{48D10D00-D2CD-4F34-80F7-1D5D01402C07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{FC137284-3AD6-4A9D-B695-B21098A53DC7}.Release|x64.Build.0 = Release|x64
 		{FC137284-3AD6-4A9D-B695-B21098A53DC7}.Release|x86.ActiveCfg = Release|Win32
 		{FC137284-3AD6-4A9D-B695-B21098A53DC7}.Release|x86.Build.0 = Release|Win32
+		{48D10D00-D2CD-4F34-80F7-1D5D01402C07}.Debug|x64.ActiveCfg = Debug|x64
+		{48D10D00-D2CD-4F34-80F7-1D5D01402C07}.Debug|x64.Build.0 = Debug|x64
+		{48D10D00-D2CD-4F34-80F7-1D5D01402C07}.Debug|x86.ActiveCfg = Debug|Win32
+		{48D10D00-D2CD-4F34-80F7-1D5D01402C07}.Debug|x86.Build.0 = Debug|Win32
+		{48D10D00-D2CD-4F34-80F7-1D5D01402C07}.Release|x64.ActiveCfg = Release|x64
+		{48D10D00-D2CD-4F34-80F7-1D5D01402C07}.Release|x64.Build.0 = Release|x64
+		{48D10D00-D2CD-4F34-80F7-1D5D01402C07}.Release|x86.ActiveCfg = Release|Win32
+		{48D10D00-D2CD-4F34-80F7-1D5D01402C07}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
