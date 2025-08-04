@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "约数之和", "约数之�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "最大公约数", "最大公约数\最大公约数.vcxproj", "{3CADCD6A-454C-4D35-8C2F-23314742C892}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "欧拉函数", "欧拉函数\欧拉函数.vcxproj", "{1356EA74-51E3-46AC-9C03-DE236E4A06A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{3CADCD6A-454C-4D35-8C2F-23314742C892}.Release|x64.Build.0 = Release|x64
 		{3CADCD6A-454C-4D35-8C2F-23314742C892}.Release|x86.ActiveCfg = Release|Win32
 		{3CADCD6A-454C-4D35-8C2F-23314742C892}.Release|x86.Build.0 = Release|Win32
+		{1356EA74-51E3-46AC-9C03-DE236E4A06A1}.Debug|x64.ActiveCfg = Debug|x64
+		{1356EA74-51E3-46AC-9C03-DE236E4A06A1}.Debug|x64.Build.0 = Debug|x64
+		{1356EA74-51E3-46AC-9C03-DE236E4A06A1}.Debug|x86.ActiveCfg = Debug|Win32
+		{1356EA74-51E3-46AC-9C03-DE236E4A06A1}.Debug|x86.Build.0 = Debug|Win32
+		{1356EA74-51E3-46AC-9C03-DE236E4A06A1}.Release|x64.ActiveCfg = Release|x64
+		{1356EA74-51E3-46AC-9C03-DE236E4A06A1}.Release|x64.Build.0 = Release|x64
+		{1356EA74-51E3-46AC-9C03-DE236E4A06A1}.Release|x86.ActiveCfg = Release|Win32
+		{1356EA74-51E3-46AC-9C03-DE236E4A06A1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
