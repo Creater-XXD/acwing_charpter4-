@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "快速幂", "快速幂\快�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "快速幂求逆元", "快速幂求逆元\快速幂求逆元.vcxproj", "{D4367DE0-9952-4ED5-A5E8-9F484713DD96}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "扩展欧几里得算法", "扩展欧几里得算法\扩展欧几里得算法.vcxproj", "{8AC886D8-55FF-4956-9D12-5A350CB2DD62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{D4367DE0-9952-4ED5-A5E8-9F484713DD96}.Release|x64.Build.0 = Release|x64
 		{D4367DE0-9952-4ED5-A5E8-9F484713DD96}.Release|x86.ActiveCfg = Release|Win32
 		{D4367DE0-9952-4ED5-A5E8-9F484713DD96}.Release|x86.Build.0 = Release|Win32
+		{8AC886D8-55FF-4956-9D12-5A350CB2DD62}.Debug|x64.ActiveCfg = Debug|x64
+		{8AC886D8-55FF-4956-9D12-5A350CB2DD62}.Debug|x64.Build.0 = Debug|x64
+		{8AC886D8-55FF-4956-9D12-5A350CB2DD62}.Debug|x86.ActiveCfg = Debug|Win32
+		{8AC886D8-55FF-4956-9D12-5A350CB2DD62}.Debug|x86.Build.0 = Debug|Win32
+		{8AC886D8-55FF-4956-9D12-5A350CB2DD62}.Release|x64.ActiveCfg = Release|x64
+		{8AC886D8-55FF-4956-9D12-5A350CB2DD62}.Release|x64.Build.0 = Release|x64
+		{8AC886D8-55FF-4956-9D12-5A350CB2DD62}.Release|x86.ActiveCfg = Release|Win32
+		{8AC886D8-55FF-4956-9D12-5A350CB2DD62}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
