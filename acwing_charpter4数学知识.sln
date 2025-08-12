@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线性同余方程", "线�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "求组合数1", "求组合数1\求组合数1.vcxproj", "{665B9182-A553-413F-887E-C65930EBD0DF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "求组合数2", "求组合数2\求组合数2.vcxproj", "{2D9F50FB-741C-4C29-8137-C79F94C9560C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{665B9182-A553-413F-887E-C65930EBD0DF}.Release|x64.Build.0 = Release|x64
 		{665B9182-A553-413F-887E-C65930EBD0DF}.Release|x86.ActiveCfg = Release|Win32
 		{665B9182-A553-413F-887E-C65930EBD0DF}.Release|x86.Build.0 = Release|Win32
+		{2D9F50FB-741C-4C29-8137-C79F94C9560C}.Debug|x64.ActiveCfg = Debug|x64
+		{2D9F50FB-741C-4C29-8137-C79F94C9560C}.Debug|x64.Build.0 = Debug|x64
+		{2D9F50FB-741C-4C29-8137-C79F94C9560C}.Debug|x86.ActiveCfg = Debug|Win32
+		{2D9F50FB-741C-4C29-8137-C79F94C9560C}.Debug|x86.Build.0 = Debug|Win32
+		{2D9F50FB-741C-4C29-8137-C79F94C9560C}.Release|x64.ActiveCfg = Release|x64
+		{2D9F50FB-741C-4C29-8137-C79F94C9560C}.Release|x64.Build.0 = Release|x64
+		{2D9F50FB-741C-4C29-8137-C79F94C9560C}.Release|x86.ActiveCfg = Release|Win32
+		{2D9F50FB-741C-4C29-8137-C79F94C9560C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
